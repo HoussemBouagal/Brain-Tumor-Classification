@@ -184,7 +184,7 @@ BrainTumorClassification/
 │   ├── meningioma.jpg 
 │   ├── notumor.jpg   
 │   ├── pituitary.jpg 
-│   └── Loss.png
+│   └── roc_curve.png
 │
 ├── main.py                     # Main application logic
 ├── brain-cancer.png            # Application icon
