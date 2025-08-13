@@ -165,7 +165,7 @@ Pillow
 ## 🗂️ Project Structure
 
 ```
-BrainTumorClassification/
+Brain-Tumor-Classification/
 │
 ├── test/                        # Test dataset folders
 │   ├── glioma/
