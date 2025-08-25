@@ -211,13 +211,6 @@ Read the full license in the [LICENSE](LICENSE) file.
 
 ---
 
-## ⚠️ Disclaimer
-
-> **This project is for educational and research purposes only.**  
-> It is **not intended for clinical or diagnostic use**. Please consult certified medical professionals for real-world medical decisions.
-
----
-
 ## 👤 Author
 
 **Houssem Bouagal**  
